@@ -1,0 +1,1 @@
+This is a library (or rather "diary") of useful classical algorithms. Whenever I will make one, it will be added to this project.
